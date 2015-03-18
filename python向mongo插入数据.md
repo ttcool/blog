@@ -1,7 +1,8 @@
 # blog
 ttcool博客
 
-    { {{#! /usr/bin/env python
+`
+#! /usr/bin/env python
 #coding=utf-8
 
 import random
@@ -46,5 +47,6 @@ def __put(db,datas):
 
 
 putDatas()
-}} }
+
+`
 
