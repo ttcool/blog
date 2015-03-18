@@ -1,7 +1,8 @@
 # blog
 ttcool博客
 
-`
+```python
+
 #! /usr/bin/env python
 #coding=utf-8
 
@@ -48,5 +49,5 @@ def __put(db,datas):
 
 putDatas()
 
-`
+```
 
