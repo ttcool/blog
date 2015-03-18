@@ -45,5 +45,6 @@ def __put(db,datas):
 
 
 
-putDatas()}} }
+putDatas()
+}} }
 
