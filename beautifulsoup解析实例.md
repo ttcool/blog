@@ -5,7 +5,7 @@ $ easy_install beautifulsoup4
  
 $ pip install beautifulsoup4
 
-'''python
+```python
 
 import urllib2
 from bs4 import BeautifulSoup
@@ -22,6 +22,7 @@ for i in c:
     for k,v in i.items():
         print k,v
         
-'''
+
+```
 
 
