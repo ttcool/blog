@@ -1,5 +1,6 @@
 #python更新mysql数据脚本
-''''python
+'''python
+
 #! /usr/bin/env python
 #coding=utf-8
 """
@@ -56,4 +57,4 @@ if __name__ == '__main__':
 
     print "end--",time.time() - t
 
-''''
+'''
